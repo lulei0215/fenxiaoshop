@@ -1,4 +1,6 @@
 # Laravel PHP开发框架
+写在前面：
+需要 composer laravel5.1 和 overtrue/wechat 3.1.0
 开发的微信分销商城；
 20160629 微信关注生成场景二维码，三级分销，已经完成
 
